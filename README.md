@@ -134,6 +134,14 @@ Automated pipelines running on GitHub Actions.
   <img src="https://streak-stats.demolab.com?user=HRaj07&hide_border=true&border_radius=12&background=0A1628&ring=FFB000&fire=FFB000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFB000&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HRaj07/HRaj07/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HRaj07/HRaj07/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/HRaj07/HRaj07/output/github-snake.svg" />
+  </picture>
+</p>
+
 
 <!--
 ## Experience
