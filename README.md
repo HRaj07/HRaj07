@@ -14,8 +14,8 @@
   <a href="mailto:2601harshitraj@gmail.com"><img src="https://img.shields.io/badge/Email-0A1628?style=for-the-badge&logo=gmail&logoColor=FFB000" alt="Email" /></a>
   <!-- TODO: replace YOUR-HANDLE with your LinkedIn username -->
   <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A1628?style=for-the-badge&logo=linkedin&logoColor=FFB000" alt="LinkedIn" /></a>
-  <a href="https://hraj07.github.io/algo-trading"><img src="https://img.shields.io/badge/Trading%20Dashboard-0A1628?style=for-the-badge&logo=githubpages&logoColor=FFB000" alt="Live trading dashboard" /></a>
   <a href="https://truthlens-brown.vercel.app"><img src="https://img.shields.io/badge/TruthLens%20Demo-0A1628?style=for-the-badge&logo=vercel&logoColor=FFB000" alt="TruthLens live demo" /></a>
+  <a href="https://hraj07.github.io/algo-trading"><img src="https://img.shields.io/badge/Trading%20Dashboard-0A1628?style=for-the-badge&logo=githubpages&logoColor=FFB000" alt="Live trading dashboard" /></a>
   <!-- Optional extras: Portfolio, LeetCode, Kaggle -->
   <!-- <a href="https://leetcode.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/LeetCode-0A1628?style=for-the-badge&logo=leetcode&logoColor=FFB000" alt="LeetCode" /></a> -->
 </p>
@@ -38,7 +38,6 @@ Automated pipelines running on GitHub Actions.
 | :-- | :-- | :-- |
 | [Intraday bot](https://github.com/HRaj07/algo-intraday) | Every 15 min, market hours | [![Intraday scan](https://github.com/HRaj07/algo-intraday/actions/workflows/intraday_scan.yml/badge.svg)](https://github.com/HRaj07/algo-intraday/actions/workflows/intraday_scan.yml) |
 | [Swing portfolio](https://github.com/HRaj07/algo-trading) | Daily, after NSE close | [![Daily run](https://github.com/HRaj07/algo-trading/actions/workflows/daily_run.yml/badge.svg)](https://github.com/HRaj07/algo-trading/actions/workflows/daily_run.yml) |
-| [Backtest suite](https://github.com/HRaj07/algo-trading) | On demand | [![Backtest](https://github.com/HRaj07/algo-trading/actions/workflows/backtest.yml/badge.svg)](https://github.com/HRaj07/algo-trading/actions/workflows/backtest.yml) |
 
 ---
 
@@ -47,38 +46,38 @@ Automated pipelines running on GitHub Actions.
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/HRaj07/TRUTHLENS">TruthLens</a></h3>
+      <p>Video interview platform with live emotion analysis.<br>CNN-LSTM over WebRTC, auto PDF reports</p>
+      <p><code>React</code> <code>FastAPI</code> <code>WebRTC</code> <code>TensorFlow</code> <code>OpenCV</code></p>
+      <p><a href="https://github.com/HRaj07/TRUTHLENS">Code</a> &nbsp;|&nbsp; <a href="https://truthlens-brown.vercel.app">Live demo</a></p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/HRaj07/algo-intraday">AlgoTrade India: Intraday</a></h3>
       <p>Automated intraday strategy based on VWAP mean reversion.<br>58.2% win rate, 1.70 profit factor over a 3-year backtest</p>
       <p><code>Python</code> <code>pandas</code> <code>yfinance</code> <code>GitHub Actions</code></p>
       <p><a href="https://github.com/HRaj07/algo-intraday">Code</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/HRaj07/algo-trading">AlgoTrade India: Swing</a></h3>
       <p>Momentum, breakout and mean-reversion portfolio for Nifty stocks.<br>Daily signals, live dashboard, Telegram alerts</p>
       <p><code>Python</code> <code>pandas</code> <code>GitHub Pages</code> <code>Telegram API</code></p>
       <p><a href="https://github.com/HRaj07/algo-trading">Code</a> &nbsp;|&nbsp; <a href="https://hraj07.github.io/algo-trading">Live dashboard</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/HRaj07/PayFlow">PayFlow</a></h3>
       <p>Stripe-style payments API and developer portal.<br>Idempotent charges, double-entry ledger, webhooks</p>
       <p><code>Node.js</code> <code>Express</code> <code>React</code> <code>JWT</code></p>
       <p><a href="https://github.com/HRaj07/PayFlow">Code</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/HRaj07/Merchalyze">Merchalyze</a></h3>
       <p>Revenue and subscription analytics for merchants.<br>MRR, ARR, churn, conversion funnel, CSV export</p>
       <p><code>Node.js</code> <code>Express</code> <code>React</code> <code>Recharts</code></p>
       <p><a href="https://github.com/HRaj07/Merchalyze">Code</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/HRaj07/TRUTHLENS">TruthLens</a></h3>
-      <p>Video interview platform with live emotion analysis.<br>CNN-LSTM over WebRTC, auto PDF reports</p>
-      <p><code>React</code> <code>FastAPI</code> <code>WebRTC</code> <code>TensorFlow</code> <code>OpenCV</code></p>
-      <p><a href="https://github.com/HRaj07/TRUTHLENS">Code</a> &nbsp;|&nbsp; <a href="https://truthlens-brown.vercel.app">Live demo</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/HRaj07/FinRisk-Analyzer">FinRisk Analyzer</a></h3>
