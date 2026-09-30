@@ -20,25 +20,6 @@
   <!-- <a href="https://leetcode.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/LeetCode-0A1628?style=for-the-badge&logo=leetcode&logoColor=FFB000" alt="LeetCode" /></a> -->
 </p>
 
----
-
-## About
-
-Computer Science Engineering student at Bennett University and software developer.
-
-**Currently:** seeking software development internships.
-
----
-
-## Live Systems
-
-Automated pipelines running on GitHub Actions.
-
-| System | Schedule | Status |
-| :-- | :-- | :-- |
-| [Intraday bot](https://github.com/HRaj07/algo-intraday) | Every 15 min, market hours | [![Intraday scan](https://github.com/HRaj07/algo-intraday/actions/workflows/intraday_scan.yml/badge.svg)](https://github.com/HRaj07/algo-intraday/actions/workflows/intraday_scan.yml) |
-| [Swing portfolio](https://github.com/HRaj07/algo-trading) | Daily, after NSE close | [![Daily run](https://github.com/HRaj07/algo-trading/actions/workflows/daily_run.yml/badge.svg)](https://github.com/HRaj07/algo-trading/actions/workflows/daily_run.yml) |
-
 
 
 
