@@ -39,15 +39,8 @@ Automated pipelines running on GitHub Actions.
 | [Intraday bot](https://github.com/HRaj07/algo-intraday) | Every 15 min, market hours | [![Intraday scan](https://github.com/HRaj07/algo-intraday/actions/workflows/intraday_scan.yml/badge.svg)](https://github.com/HRaj07/algo-intraday/actions/workflows/intraday_scan.yml) |
 | [Swing portfolio](https://github.com/HRaj07/algo-trading) | Daily, after NSE close | [![Daily run](https://github.com/HRaj07/algo-trading/actions/workflows/daily_run.yml/badge.svg)](https://github.com/HRaj07/algo-trading/actions/workflows/daily_run.yml) |
 
----
 
 
-
-## Engineering Approach
-
-**Evidence-based decisions.** Strategies are deployed only after validation through multi-year backtests.<br>
-**Financial correctness.** Idempotent transactions and balanced double-entry accounting.<br>
-**Security by default.** Token rotation, rate limiting and input validation on every API.
 
 ---
 
@@ -55,12 +48,10 @@ Automated pipelines running on GitHub Actions.
 
 | | |
 | :-- | :-- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,js,html,css&theme=dark" alt="Python, JavaScript, HTML, CSS" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,js,html,css&theme=dark" alt="C++,Python, JavaScript, HTML, CSS" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite, Tailwind" /> |
 | **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,sqlite&theme=dark" alt="Node.js, Express, FastAPI, SQLite" /> |
 | **Machine Learning** | <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv&theme=dark" alt="scikit-learn, TensorFlow, OpenCV" /> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=githubactions,docker,vercel,git,github&theme=dark" alt="GitHub Actions, Docker, Vercel, Git, GitHub" /> |
-
 <p>
   <img src="https://img.shields.io/badge/pandas-0A1628?style=flat-square&logo=pandas&logoColor=FFB000" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-0A1628?style=flat-square&logo=numpy&logoColor=FFB000" alt="NumPy" />
