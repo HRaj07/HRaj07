@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-FFB000?style=flat-square&labelColor=0A1628" alt="B.Tech Computer Science" />
-  <img src="https://img.shields.io/badge/Bennett%20University-Greater%20Noida-FFB000?style=flat-square&labelColor=0A1628" alt="Bennett University" />
+ 
   <!-- Optional: add your CGPA -->
   <!-- <img src="https://img.shields.io/badge/CGPA-X.XX-FFB000?style=flat-square&labelColor=0A1628" alt="CGPA" /> -->
   <img src="https://img.shields.io/badge/Status-Open%20to%20SDE%20internships-26A69A?style=flat-square&labelColor=0A1628" alt="Open to SDE internships" />
