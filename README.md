@@ -51,8 +51,7 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=HRaj07&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&bg_color=0A1628&title_color=FFB000&icon_color=26A69A&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRaj07&layout=compact&langs_count=6&hide_border=true&border_radius=12&bg_color=0A1628&title_color=FFB000&text_color=C9D1D9" alt="Top languages" />
-</p>
+ 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HRaj07&hide_border=true&border_radius=12&background=0A1628&ring=FFB000&fire=FFB000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFB000&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak" />
